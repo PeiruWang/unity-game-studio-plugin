@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity 3D Asset Pipeline"
+  short_description: "Prepare Unity 3D assets for runtime"
+  default_prompt: "Use $unity-3d-asset-pipeline to prepare this Unity 3D asset for runtime."

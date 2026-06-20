@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Game Studio"
+  short_description: "Route Unity game work to the right path"
+  default_prompt: "Use $unity-game-studio to choose the right Unity game workflow before implementation starts."

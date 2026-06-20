@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Playtest"
+  short_description: "Verify Unity gameplay with tests and QA"
+  default_prompt: "Use $unity-playtest to verify this Unity gameplay feature with tests and structured QA."

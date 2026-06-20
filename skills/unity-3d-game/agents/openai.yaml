@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity 3D Game"
+  short_description: "Build ticket-scoped Unity 3D gameplay"
+  default_prompt: "Use $unity-3d-game to implement this ticket-scoped Unity 3D gameplay feature."

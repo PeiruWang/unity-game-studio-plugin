@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Game Foundations"
+  short_description: "Set Unity game architecture before coding"
+  default_prompt: "Use $unity-game-foundations to define Unity game architecture before implementation starts."

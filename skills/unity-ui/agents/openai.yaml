@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity UI"
+  short_description: "Design and implement Unity uGUI surfaces"
+  default_prompt: "Use $unity-ui to design and implement this Unity uGUI interface."

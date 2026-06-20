@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Ticket Implementation"
+  short_description: "Implement scoped Unity tickets safely"
+  default_prompt: "Use $unity-ticket-implementation to implement this scoped Unity ticket safely."

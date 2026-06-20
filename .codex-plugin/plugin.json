@@ -1,0 +1,41 @@
+{
+  "name": "game-studio-plugin",
+  "version": "0.1.0",
+  "description": "Plan, implement, and verify Unity game workflows with guided 2D, 3D, UI, asset pipeline, and playtesting support.",
+  "author": {
+    "name": "PeiruWang",
+    "url": "https://github.com/PeiruWang"
+  },
+  "homepage": "https://github.com/PeiruWang/unity-game-studio-plugin",
+  "repository": "https://github.com/PeiruWang/unity-game-studio-plugin",
+  "license": "MIT",
+  "keywords": [
+    "unity",
+    "unity6",
+    "games",
+    "csharp",
+    "2d",
+    "3d",
+    "ugui",
+    "sprites",
+    "playtest"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Unity Game Studio",
+    "shortDescription": "Plan, implement, and verify Unity games",
+    "longDescription": "Route and build Unity game work with guided workflows for architecture, 2D and 3D gameplay, UI, asset pipelines, sprites, tickets, and playtesting.",
+    "developerName": "PeiruWang",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/PeiruWang/unity-game-studio-plugin",
+    "defaultPrompt": [
+      "Plan a Unity game workflow and implementation path"
+    ],
+    "brandColor": "#0F766E",
+    "screenshots": []
+  }
+}

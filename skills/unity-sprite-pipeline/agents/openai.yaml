@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Sprite Pipeline"
+  short_description: "Prepare Unity sprites and animation strips"
+  default_prompt: "Use $unity-sprite-pipeline to prepare these Unity sprites for import and animation."
