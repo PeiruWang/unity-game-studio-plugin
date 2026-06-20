@@ -1,0 +1,20 @@
+{
+  "name": "unity-game-studio",
+  "interface": {
+    "displayName": "Unity Game Studio"
+  },
+  "plugins": [
+    {
+      "name": "game-studio-plugin",
+      "source": {
+        "source": "local",
+        "path": "./plugins/game-studio-plugin"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
